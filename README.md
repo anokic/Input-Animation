@@ -1,3 +1,3 @@
 # Input-Animation
 
-Simple input animation
+Simple input animation made with HTML/CSS
